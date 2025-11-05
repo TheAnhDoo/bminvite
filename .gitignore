@@ -5,8 +5,8 @@ yarn.lock
 pnpm-lock.yaml
 
 # Build output
-dist
-build
+dist/
+build/
 .vite
 
 # Environment variables
